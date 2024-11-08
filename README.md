@@ -1,8 +1,10 @@
 ## Salve! ✌️
 
-💼 Atualmente trabalho como Data Product Owner no GB!
+• 💼 Atualmente trabalho como Data Product Owner no GB!
 
-📚 Estou cursando MBA em Data Science e Analytics na USP/ESALQ!
+• 📚 Estou cursando MBA em Data Science e Analytics na USP/ESALQ!
+
+• 💬 Me pergunte sobre: **SQL**, **PowerBI**, e **Projetos de Dados**;
 #
 ## Hardskills
 <div>
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<!-- div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=twofidelis&show_icons=true&theme=dracula&include_all_commits=true">
 </div>
 
